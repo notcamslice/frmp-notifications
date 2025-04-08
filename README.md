@@ -57,7 +57,7 @@ npm run dev
 npm run build
 ```
 
-> Output will be generated in the `dist/` folder. You can configure this to be served as your NUI for a FiveM resource.
+> Output will be generated in the `build/` folder. You can configure this to be served as your NUI for a FiveM resource.
 
 ---
 
